@@ -33,18 +33,16 @@ body {
   font-size: 20px;
 }
 
-.header div ul {
-  list-style-type: none;
-}
-
 .header div ul li {
   display: inline-block;
   margin-left: 25px;
+  list-style-type: none;
 }
 
 a {
   color: #ffffff;
   text-decoration: none;
+  font-size: 16px;
 }
 
 p {
@@ -111,27 +109,8 @@ p {
   color: #ffffff;
 }
 
-.search-engine-optimization img {
-  max-height: 200px;
-}
-
-.online-reputation-management img {
-  max-height: 200px;
-}
-
 .social-media-marketing img {
   max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-  border: #0072bb solid;
-}
-
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
 }
 
 .social-media-marketing h2 {
