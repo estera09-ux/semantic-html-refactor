@@ -5,15 +5,15 @@
 
 - I have added semantic HTML tags and linked the css style page
 
-##
+## Deployed URL
 
--added the link to the GitHub pages
+-you can find the link to the website [here](https://github.com/estera09-ux/Semantic-Html-refactor)
 
 ## Screenshots
 
-![mobile-screenshot](./assets/images/screenshots/header.png)
-![mobile-screenshot](./assets/images/screenshots/image.png)
-![mobile-screenshot](./assets/images/screenshots/footer-image.png)
+![desktop-screenshot](./assets/images/screenshots/header.png)
+![desktop-screenshot](./assets/images/screenshots/image.png)
+![desktop-screenshot](./assets/images/screenshots/footer-image.png)
 
 ## Technologies used
 
