@@ -86,14 +86,14 @@ p {
   background-color: #2589bd;
 }
 
-.benefit-cost img {
+.benefit-cost {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
 .benefit-cost h3 {
-  margin-bottom: 32px;
-  color: #ffffff;
+  margin-bottom: 10px;
+  text-align: center;
 }
 
 .benefit-cost img {
