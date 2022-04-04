@@ -7,13 +7,13 @@
 
 ## Deployed URL
 
--you can find the link to the website [here](https://github.com/estera09-ux/Semantic-Html-refactor)
+-you can find the link to the website [here](https://estera09-ux.github.io/Semantic-Html-refactor/)
 
 ## Screenshots
 
-![desktop-screenshot](./assets/images/screenshots/header.png)
-![desktop-screenshot](./assets/images/screenshots/image.png)
-![desktop-screenshot](./assets/images/screenshots/footer-image.png)
+![desktop-screenshot](./assets/images/screenshots/header-image.png)
+![desktop-screenshot](./assets/images/screenshots/main-image.png)
+![desktop-screenshot](./assets/images/screenshots/footer-img.png)
 
 ## Technologies used
 
