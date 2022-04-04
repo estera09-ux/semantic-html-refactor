@@ -9,8 +9,11 @@
 
 -added the link to the GitHub pages
 
-##Screenshots
-Added screenshots here.
+## Screenshots
+
+![mobile-screenshot](./assets/images/screenshots/header.png)
+![mobile-screenshot](./assets/images/screenshots/image.png)
+![mobile-screenshot](./assets/images/screenshots/footer-image.png)
 
 ## Technologies used
 
