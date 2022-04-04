@@ -29,7 +29,8 @@ body {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", "Calibre", "Trebuchet MS",
+    sans-serif;
   font-size: 20px;
 }
 
@@ -80,19 +81,20 @@ p {
   float: right;
   width: 20%;
   height: 100%;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", "Calibre", "Trebuchet MS",
+    sans-serif;
   background-color: #2589bd;
 }
 
-.benefit-cost {
+.benefit-cost h3 img {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefit-cost h3 {
+/* .benefit-cost h3 {
   margin-bottom: 10px;
   text-align: center;
-}
+} */
 
 .benefit-cost img {
   display: block;
@@ -104,7 +106,8 @@ p {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", "Calibre", "Trebuchet MS",
+    sans-serif;
   background-color: #0072bb;
   color: #ffffff;
 }
@@ -124,5 +127,4 @@ p {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
-  font-size: 20px;
 }
