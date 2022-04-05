@@ -11,6 +11,12 @@
 
 ## Screenshots
 
+# Before
+
+![desktop-screenshot](./assets/images/screenshots/before.png)
+
+# After
+
 ![desktop-screenshot](./assets/images/screenshots/header-image.png)
 ![desktop-screenshot](./assets/images/screenshots/main-image.png)
 ![desktop-screenshot](./assets/images/screenshots/footer-img.png)
