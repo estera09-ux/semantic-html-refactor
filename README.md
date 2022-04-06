@@ -1,4 +1,4 @@
-# Semantic-Html-refactor
+# semantic-html-refactor
 
 🏁 **Getting started**
 
@@ -27,9 +27,7 @@ so that their website is optimized for search engines.Another important consider
 **After**
 
 - The following images shows the web application's and functionality after refactoring the code.
-  ![project-screenshot](./assets/images/screenshots/header-image.png)
-  ![desktop-screenshot](./assets/images/screenshots/main-image.png)
-  ![desktop-screenshot](./assets/images/screenshots/footer-img.png)
+  ![project-screenshot](./assets/images/screenshots/after.png)
 
 ## 💻 Technologies used
 
