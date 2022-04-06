@@ -3,7 +3,7 @@
 🏁 **Getting started**
 
 For this application, the user has requested a codebase that follows accessibility standards
-so that their website is optimized for search engines.Another important consideration for the client was **accessibility** . To ensure that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards.
+so that their website is optimized for search engines. Another important consideration for the client was **accessibility** . To ensure that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards.
 
 🛠 **Functionality**
 
@@ -16,7 +16,7 @@ so that their website is optimized for search engines.Another important consider
 
 💥 **Deployed URL**
 
-- The URL of the github repository [GitHub](https://estera09-ux.github.io/Semantic-Html-refactor/)
+- The URL of the github repository [GitHub](https://estera09-ux.github.io/semantic-html-refactor/)
 
 ## 📷 Screenshots
 
