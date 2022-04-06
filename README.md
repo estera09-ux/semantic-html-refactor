@@ -1,27 +1,39 @@
 # Semantic-Html-refactor
 
-- Refactor an html page using Semantic HTML
-  -Changed the title
+🏁 **Getting started**
 
-- I have added semantic HTML tags and linked the css style page
+For this application, the user has requested a codebase that follows accessibility standards
+so that their website is optimized for search engines.Another important consideration for the client was **accessibility** . To ensure that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards.
 
-## Deployed URL
+🛠 **Functionality**
 
--you can find the link to the website [here](https://estera09-ux.github.io/Semantic-Html-refactor/)
+- Used semantic HTML elements where possible.
+- Search Engine Optimization.
+- Ensured there are alt attributes for all images and kept it descriptive.
+- Removed duplicate class names in CSS and replace with generic class name in HTML.
+- Made sure the page has a logical structure.
+- Refactored the CSS code.
 
-## Screenshots
+💥 **Deployed URL**
 
-# Before
+- The URL of the github repository [GitHub](https://estera09-ux.github.io/Semantic-Html-refactor/)
 
-![desktop-screenshot](./assets/images/screenshots/before.png)
+## 📷 Screenshots
 
-# After
+**Before**
 
-![desktop-screenshot](./assets/images/screenshots/header-image.png)
-![desktop-screenshot](./assets/images/screenshots/main-image.png)
-![desktop-screenshot](./assets/images/screenshots/footer-img.png)
+![project-screenshot](./assets/images/screenshots/before.png)
 
-## Technologies used
+**After**
+
+- The following images shows the web application's and functionality after refactoring the code.
+  ![project-screenshot](./assets/images/screenshots/header-image.png)
+  ![desktop-screenshot](./assets/images/screenshots/main-image.png)
+  ![desktop-screenshot](./assets/images/screenshots/footer-img.png)
+
+## 💻 Technologies used
 
 - html
-  -css
+- css
+- visual studio code
+- github
