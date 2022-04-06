@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* the class of the header  */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -34,6 +35,7 @@ body {
   font-size: 20px;
 }
 
+/* the links from the navbar */
 .header nav ul li {
   display: inline-block;
   margin-left: 25px;
@@ -50,6 +52,7 @@ p {
   font-size: 16px;
 }
 
+/* the image  */
 .hero {
   height: 800px;
   width: 100%;
@@ -73,6 +76,7 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
+/* the aside classes */
 
 .benefits {
   margin-right: 20px;
@@ -86,6 +90,7 @@ p {
   background-color: #2589bd;
 }
 
+/* class of the sections from the aside */
 .benefit-cost {
   margin-bottom: 32px;
   color: #ffffff;
@@ -101,6 +106,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+/* classes of the sections from the  main */
 
 .social-media-marketing {
   margin-bottom: 20px;
